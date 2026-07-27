@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body{
+    margin:0;
+    overflow:hidden;
+    background: url("images/galaxy.jpg") center center/cover no-repeat;
+    background-color:#02030a;
+}
+
+canvas{
+    display:block;
+}
